@@ -1,0 +1,89 @@
+{
+    "scratch": [
+        {
+            "title": "Regentropfen-sammeln",
+            "description": "Regentropfen sammeln",
+            "content":"Eine Schleife ist ein Programmierkonstrukt, das es ermöglicht, eine Gruppe von Anweisungen wiederholt auszuführen, solange eine bestimmte Bedingung erfüllt ist. Eine Bedingung ist ein Ausdruck, der wahr oder falsch sein kann. Sie wird verwendet, um zu entscheiden, ob bestimmte Anweisungen im Programm ausgeführt werden sollen oder nicht. Eine Variable ist ein Speicherbereich im Computer, der einen Wert aufnehmen kann. Sie wird verwendet, um Daten im Programm zu speichern und zu verarbeiten.",
+            "images": 
+            [
+                "Regentropfen1",
+                "Regentropfen2",
+                "Regentropfen3",
+                "Regentropfen4"
+            ],
+            "url": "https://scratch.mit.edu/projects/10101010/",
+            "video": "https://www.youtube.com/watch?v=10101010"
+        },
+        {
+            "title": "Hexe-fangen",
+            "description": "Regentropfen sammeln",
+            "images": 
+            [
+                "https://cdn2.scratch.mit.edu/get_image/project/10101010_480x360.png",
+                "https://cdn2.scratch.mit.edu/get_image/project/10101010_480x360.png"
+            ],
+            "url": "https://scratch.mit.edu/projects/10101010/",
+            "video": "https://www.youtube.com/watch?v=10101010"
+        }
+        ,
+        {
+            "title": "Geburstagskarte",
+            "description": "Regentropfen sammeln",
+            "images": 
+            [
+                "https://cdn2.scratch.mit.edu/get_image/project/10101010_480x360.png",
+                "https://cdn2.scratch.mit.edu/get_image/project/10101010_480x360.png"
+            ],
+            "url": "https://scratch.mit.edu/projects/10101010/",
+            "video": "https://www.youtube.com/watch?v=10101010"
+        }
+        ,
+        {
+            "title": "Unterwasserwelt",
+            "description": "Regentropfen sammeln",
+            "images": 
+            [
+                "https://cdn2.scratch.mit.edu/get_image/project/10101010_480x360.png",
+                "https://cdn2.scratch.mit.edu/get_image/project/10101010_480x360.png"
+            ],
+            "url": "https://scratch.mit.edu/projects/10101010/",
+            "video": "https://www.youtube.com/watch?v=10101010"
+        }
+        ,
+        {
+            "title": "Zauberwald",
+            "description": "Regentropfen sammeln",
+            "images": 
+            [
+                "https://cdn2.scratch.mit.edu/get_image/project/10101010_480x360.png",
+                "https://cdn2.scratch.mit.edu/get_image/project/10101010_480x360.png"
+            ],
+            "url": "https://scratch.mit.edu/projects/10101010/",
+            "video": "https://www.youtube.com/watch?v=10101010"
+        }
+        ,
+        {
+            "title": "Quiz",
+            "description": "Regentropfen sammeln",
+            "images": 
+            [
+                "https://cdn2.scratch.mit.edu/get_image/project/10101010_480x360.png",
+                "https://cdn2.scratch.mit.edu/get_image/project/10101010_480x360.png"
+            ],
+            "url": "https://scratch.mit.edu/projects/10101010/",
+            "video": "https://www.youtube.com/watch?v=10101010"
+        }
+        ,
+        {
+            "title": "Labyrinth",
+            "description": "Regentropfen sammeln",
+            "images": 
+            [
+                "https://cdn2.scratch.mit.edu/get_image/project/10101010_480x360.png",
+                "https://cdn2.scratch.mit.edu/get_image/project/10101010_480x360.png"
+            ],
+            "url": "https://scratch.mit.edu/projects/10101010/",
+            "video": "https://www.youtube.com/watch?v=10101010"
+        }
+    ]
+}
